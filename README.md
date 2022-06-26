@@ -58,6 +58,13 @@ Despesas Operacionais (OpEx) - Sem custo inicial, mas você paga pelo serviço/p
 ![image](https://user-images.githubusercontent.com/54695088/175796624-9c26ba86-16f3-4ab6-aff1-59bfc90721b1.png)
 
 
-https://azure.microsoft.com/pt-br/pricing/tco/calculator/ - Calculadora TCO - Calcula os preços para uma possível migração de on-primese para a Azure/Cloud.
-https://azure.microsoft.com/pt-br/pricing/calculator/ - Calculadora de Preços - Calcula os valores dos recursos da Azure.
+Calculadora TCO - Calcula os preços para uma possível migração de on-primese para a Azure/Cloud.
+https://azure.microsoft.com/pt-br/pricing/tco/calculator/
+
+Calculadora de Preços - Calcula os valores dos recursos da Azure.
+https://azure.microsoft.com/pt-br/pricing/calculator/
+
+
+![image](https://user-images.githubusercontent.com/54695088/175796863-06215e4b-7eb3-4c67-aee6-999954368845.png)
+
 
