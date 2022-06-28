@@ -67,4 +67,27 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 ![image](https://user-images.githubusercontent.com/54695088/175796863-06215e4b-7eb3-4c67-aee6-999954368845.png)
 
+### MATERIAIS IMPORTANTES PARA ESTUDOS ###
+https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/
+
+https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/what-is-microsoft-azure
+
+https://www.youtube.com/watch?v=zpMnl5owygg
+
+https://renatogroffe.medium.com/certifica%C3%A7%C3%B5es-gratuitas-em-azure-fa%C3%A7a-os-exames-az-900-dp-900-e-ai-900-na-faixa-9ccb48fa04ca
+
+https://renatogroffe.medium.com/nuvem-em-2022-primeiros-passos-azure-tecnologias-carreira-senai-santo-amaro-abril-2022-d36bf835ebf6
+
+https://www.escoladanuvem.org/cursos/fundamentos-microsoft-azure/#learndash-course-content
+
+https://dev.to/guilhermemanzano/resumo-estudos-az-900-12l3
+
+https://centraldoaluno.ecurso.com.br/Common/Home.aspx 
+
+✅ Enquetes (com gabarito): https://kasolutiontec-my.sharepoint.com/:b:/g/personal/thiago_kasolution_com_br/EYULSh6AhGpLnoeMtWNPVXYBTQ8Lpsx1twmdNwjvmh3CNA?e=5hUKh0
+
+✅ Simulado AZ-900: https://www.kasolution.com.br/cp/AZ-900-SampleQuestions.pdf
+
+✅ Dicas Thiago (Exame): https://kasolutiontec-my.sharepoint.com/:x:/g/personal/thiago_kasolution_com_br/EVUFedrEeqdKsQLhnMIk7PQB-bLbh_Ar6s_coBasIkpB1w?e=nq44cr
+
 
