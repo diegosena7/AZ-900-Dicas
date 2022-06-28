@@ -1,5 +1,7 @@
-# AZ-900-Dicas
+### AZ-900-Dicas ###
 Dicas de estudo para certificação AZ-900
+
+
 PaaS -> Mais barato - A plataforma como serviço refere-se aos serviços de computação em nuvem que fornecem um ambiente sob demanda para desenvolvimento, teste, fornecimento e gerenciamento de aplicativos de software. O PaaS foi criado para facilitar aos desenvolvedores criarem aplicativos móveis ou Web rapidamente, sem se preocupar com a configuração ou o gerenciamento de infraestrutura subjacente de servidores, armazenamento, rede e bancos de dados necessários para desenvolvimento. EX: Microsoft Azure
 
 SaaS -> Preço médio - Software como serviço caracteriza-se pela oferta de um produto completo hospedado e gerenciado pelo fornecedor. Normalmente neste modelo de serviço o usuário adquiri algum tipo de licença temporária ou não de uso. Entenda o software aqui como um produto pronto para o usuário final. EX: Microsoft 365
