@@ -70,6 +70,9 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 ![image](https://user-images.githubusercontent.com/54695088/175796863-06215e4b-7eb3-4c67-aee6-999954368845.png)
 
 ### MATERIAIS IMPORTANTES PARA ESTUDOS ###
+
+https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
+
 https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/
 
 https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-fundamentals/what-is-microsoft-azure
@@ -83,6 +86,8 @@ https://renatogroffe.medium.com/nuvem-em-2022-primeiros-passos-azure-tecnologias
 https://www.escoladanuvem.org/cursos/fundamentos-microsoft-azure/#learndash-course-content
 
 https://dev.to/guilhermemanzano/resumo-estudos-az-900-12l3
+
+https://dev.to/azure/guia-de-estudos-az-900-certificacao-azure-fundamentals-4mb8
 
 https://centraldoaluno.ecurso.com.br/Common/Home.aspx 
 
