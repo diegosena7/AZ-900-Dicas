@@ -94,7 +94,3 @@ https://centraldoaluno.ecurso.com.br/Common/Home.aspx
 ✅ Enquetes (com gabarito): https://kasolutiontec-my.sharepoint.com/:b:/g/personal/thiago_kasolution_com_br/EYULSh6AhGpLnoeMtWNPVXYBTQ8Lpsx1twmdNwjvmh3CNA?e=5hUKh0
 
 ✅ Simulado AZ-900: https://www.kasolution.com.br/cp/AZ-900-SampleQuestions.pdf
-
-✅ Dicas Thiago (Exame): https://kasolutiontec-my.sharepoint.com/:x:/g/personal/thiago_kasolution_com_br/EVUFedrEeqdKsQLhnMIk7PQB-bLbh_Ar6s_coBasIkpB1w?e=nq44cr
-
-
